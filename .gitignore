@@ -1,0 +1,38 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Bytecode
+*.jar
+
+# Libraries
+/lib/
+
+# Dependency directories
+/target/
+/out/
+
+# Eclipse
+.classpath
+.project
+
+# Maven
+target/
+log/
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
