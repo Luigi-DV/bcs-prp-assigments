@@ -27,7 +27,7 @@ I recommend using Java SDK version 14 or any version higher than 14 for the assi
     - Rock crushes Scissors
   
 
-### Assignment 2: Cool Numbers
+### Assignment 3: Cool Numbers
 - **Class:** `CoolNumbers`
 - **Description:** This week you’ll write an algorithmic approach to what we call “cool” numbers. Given a (non-zero) positive integer n, a number is considered “cool” if n is divisible by each of the number’s digits without remainder.
 
